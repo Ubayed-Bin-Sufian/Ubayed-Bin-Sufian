@@ -1,14 +1,29 @@
-### Hi there!!! 👋
+<h2 align="center"> Mechanical Design Engineer by Passion! Enthusiastic for ML & AI Integration </h2>
 
-## Presenting myself, UBAYED BIN SUFIAN 
+<p align="left"> 
+<!--    The following code is taken from https://github.com/rickstaa    -->
+<a href="https://github.com/Ubayed-Bin-Sufian" target="blank"> <img align="center" src="https://img.shields.io/github/followers/Ubayed-Bin-Sufian?label=Follow&style=social" alt="Ubayed-Bin-Sufian"/></a> &nbsp;
+<a href="https://github.com/Ubayed-Bin-Sufian" target="blank" ><img align="center" src="https://komarev.com/ghpvc/?username=ubayed-bin-sufian&label=Profile%20views&color=0e75b6&style=flat" alt="Ubayed-Bin-Sufian"/></a>
+
+### Hi there!!!👋, I'm UBAYED BIN SUFIAN
+
+<!--    The following code is taken from https://github.com/rishavchanda    -->
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif?format=1500w">
+
 
 - 🔭 I’m currently working on Arduino IDE and integrating it with basic hardwares.
-- 🌱 I’m currently learning about PLC programming. 
-- 👯 I’m looking to collaborate on Data Science. 
-- 📫 How to reach me: **ubayedbinsufian@gmail.com**
+  
+- 🌱 I’m currently learning about PLC programming.
+  
+- 👯 I’m looking to collaborate on Data Science.
+  
+- 📧 How to reach me: **ubayedbinsufian@gmail.com** 
+  
 - 😄 Pronouns: he/him
+  
 - ⚡ Fun fact: Mira Murati, CTO of Open AI, is a MECHANICAL ENGINEER !!!
 
+<!--    The following code is taken from https://github.com/rishavchanda    -->
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -19,12 +34,24 @@
 <a href="https://www.mathworks.com/" target="blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/></a>
 <a href="https://www.python.org" target="blank" ><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
 
+<!--    The following code is taken from https://github.com/rishavchanda    -->
 </p>
 <h3 align="left">Get in touch with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ubayedbinsufian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubayedbinsufian" height="30" width="40" /></a>
-<a href="https://twitter.com/Ubayedx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ubayedx" height="30" width="40" /></a>                                                         
+<a href="https://twitter.com/Ubayedx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ubayedx" height="30" width="40" /></a>
+<a href="https://instagram.com/ubayed123/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="ubayed123" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/ubayed.bin.sufian/vizzes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg" alt="ubayed.bin.sufian" height="30" width="" /></a>  
+
+<!--    The following code is taken from https://github.com/rishavchanda    -->
+<h3 align="left">Stats and Contributions:</h3>
+
+Stats             |  Contributions
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=ubayed-bin-sufian&show_icons=true&locale=en) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ubayed-bin-sufian&)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubayed-bin-sufian&show_icons=true&locale=en&layout=compact" alt="ubayed-bin-sufian" /></p>
+
 
 
 <!--
