@@ -19,8 +19,6 @@
   
 - 📧 How to reach me: **ubayedbinsufian@gmail.com** 
   
-- 😄 Pronouns: he/him
-  
 - ⚡ Fun fact: Mira Murati, CTO of Open AI, is a MECHANICAL ENGINEER !!!
 
 <!--    The following code is taken from https://github.com/rishavchanda    -->
