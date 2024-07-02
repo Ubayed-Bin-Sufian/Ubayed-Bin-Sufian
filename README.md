@@ -1,4 +1,4 @@
-<h2 align="center"> Mechanical Engineer by Passion! Enthusiastic for ML & AI Integration </h2>
+<h2 align="center"> Enthusiatic Mechanical Engineer with Passion for ML & AI Integration </h2>
 
 <p align="left"> 
 <!--    The following code is taken from https://github.com/rickstaa    -->
