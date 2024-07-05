@@ -11,9 +11,9 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif?format=1500w">
 
 
-- 🔭 I’m currently working on Arduino IDE and integrating it with basic hardwares.
+- 🔭 I’m currently working on React based project named Automatic Code Evaluator.
   
-- 🌱 I’m currently learning about PLC programming.
+- 🌱 I’m currently learning about AI and ML concepts.
   
 - 👯 I’m looking to collaborate on Data Science.
   
