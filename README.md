@@ -41,6 +41,14 @@
 <a href="https://instagram.com/ubayed123/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="ubayed123" height="30" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/ubayed.bin.sufian/vizzes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg" alt="ubayed.bin.sufian" height="30" width="" /></a>  
 
+<!--    The following code is taken from https://github.com/ryo-ma/github-profile-trophy    -->
+<h3 align="left">Profile Trophies:</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ubayed-Bin-Sufian&theme=light" alt="GitHub Trophies" />
+  </a>
+</p>
+
 <!--    The following code is taken from https://github.com/rishavchanda    -->
 <h3 align="left">Stats and Contributions:</h3>
 
@@ -49,7 +57,6 @@ Stats             |  Contributions
 ![](https://github-readme-stats.vercel.app/api?username=ubayed-bin-sufian&show_icons=true&locale=en) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ubayed-bin-sufian&)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubayed-bin-sufian&show_icons=true&locale=en&layout=compact" alt="ubayed-bin-sufian" /></p>
-
 
 
 <!--
