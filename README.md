@@ -11,15 +11,23 @@
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif?format=1500w">
 
 
-- 🔭 I’m currently working on React based project named Automatic Code Evaluator.
+- 🔭 I’m currently contributing to [Sugar Labs](https://github.com/sugarlabs).
   
-- 🌱 I’m currently learning about AI and ML concepts.
+- 🌱 I’m currently learning about HTML & TypeScript.
   
-- 👯 I’m looking to collaborate on Data Science.
+- 👯 I’m looking to collaborate on Web Development.
   
 - 📧 How to reach me: **ubayedbinsufian@gmail.com** 
   
 - ⚡ Fun fact: Mira Murati, CTO of Open AI, is a MECHANICAL ENGINEER !!!
+
+<h3>List of Some of My Recent Work and Projects</h3>
+
+- During my Internship at [Vizuara AI Labs](https://vizuara.ai/), I created an [Automatic Code Evaluator App](https://github.com/Ubayed-Bin-Sufian/Automatic-Code-Evaluator) and an [AI News Hub](https://github.com/Ubayed-Bin-Sufian/AI-News-Hub).
+- I am an active contributor at [Sugarlabs](https://github.com/sugarlabs). Below are the complete list of contributions I made and counting.
+  - [Music Blocks v3](https://github.com/sugarlabs/musicblocks/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian)
+  - [Music Blocks v4](https://github.com/sugarlabs/musicblocks-v4/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian)
+  - [Sugar Labs Website](https://github.com/sugarlabs/www/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian)
 
 <!--    The following code is taken from https://github.com/rishavchanda    -->
 </p>
