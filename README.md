@@ -27,7 +27,8 @@
 - I am an active contributor at [Sugarlabs](https://github.com/sugarlabs). Below are the complete list of contributions I made and counting.
   - [Music Blocks v3](https://github.com/sugarlabs/musicblocks/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian)
   - [Music Blocks v4](https://github.com/sugarlabs/musicblocks-v4/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian)
-  - [Sugar Labs Website](https://github.com/sugarlabs/www/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian)
+  - [Sugar Labs website v1](https://github.com/sugarlabs/www/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian)
+  - [Sugar Labs website v2](https://github.com/sugarlabs/www-v2/pulls?q=is%3Apr+is%3Aclosed+author%3Aubayed-bin-sufian+)
 
 <!--    The following code is taken from https://github.com/rishavchanda    -->
 </p>
