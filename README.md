@@ -80,7 +80,10 @@ Stats             |  Contributions
 <details open>
 <summary>IBM Z</summary>
 <a target="_blank" href="https://www.credly.com/badges/b13f4d71-f087-4a1d-b418-5b2820a2328d"><img src="https://github.com/Ubayed-Bin-Sufian/Ubayed-Bin-Sufian/blob/main/assets/IBM%20Z/002-IBM-Z-Xplore-Concepts.png" width="100"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/Ubayed-Bin-Sufian/Ubayed-Bin-Sufian/refs/heads/main/assets/IBM%20Z/004-Z-Skills-Fest-Certificate-2025.png"><img src="https://github.com/Ubayed-Bin-Sufian/Ubayed-Bin-Sufian/blob/main/assets/IBM%20Z/004-Z-Skills-Fest-Certificate-2025.png" height="100"></a>
 </details>
+
+
 
 <details open>
 <summary>Microsoft Learn</summary>
