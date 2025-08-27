@@ -62,9 +62,12 @@ Stats             |  Contributions
 :-------------------------:|:-------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=ubayed-bin-sufian&show_icons=true&locale=en) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ubayed-bin-sufian&)
 
-<!--    MOST USED LANGUAGES    -->
+<!--    MOST USED LANGUAGES + CNCF DevStats    -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubayed-bin-sufian&show_icons=true&locale=en&layout=compact" alt="ubayed-bin-sufian" target="_blank"></img>
+  <a href="https://github.com/tico88612/devstats-card">
+    <img src="https://devstats.me/?username=ubayed-bin-sufian" alt="DevStats Card" height="165" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubayed-bin-sufian&show_icons=true&locale=en&layout=compact" alt="ubayed-bin-sufian" />
 </p>
 
 <!--    ACTIVITY GRAPH    -->
@@ -82,8 +85,6 @@ Stats             |  Contributions
 <a target="_blank" href="https://www.credly.com/badges/b13f4d71-f087-4a1d-b418-5b2820a2328d"><img src="https://github.com/Ubayed-Bin-Sufian/Ubayed-Bin-Sufian/blob/main/assets/IBM%20Z/002-IBM-Z-Xplore-Concepts.png" width="100"></a>
 <a target="_blank" href="https://raw.githubusercontent.com/Ubayed-Bin-Sufian/Ubayed-Bin-Sufian/refs/heads/main/assets/IBM%20Z/004-Z-Skills-Fest-Certificate-2025.png"><img src="https://github.com/Ubayed-Bin-Sufian/Ubayed-Bin-Sufian/blob/main/assets/IBM%20Z/004-Z-Skills-Fest-Certificate-2025.png" height="100"></a>
 </details>
-
-
 
 <details open>
 <summary>Microsoft Learn</summary>
