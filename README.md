@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.popsci.com/wp-content/uploads/2022/09/06/giphy-1.gif">
 
-- 🔭 I’m currently contributing to [FOSSASIA](https://github.com/fossasia) as part of Google Summer of Code, 2025.
+- 🔭 I’m currently contributing to [FOSSASIA](https://github.com/fossasia) project, [WPFAevent](https://github.com/fossasia/WPFAevent).
   
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning php and Object Oriented Programming.
   
 - 👯 I’m looking to collaborate on DevOps.
   
@@ -22,7 +22,9 @@
 
 - During my Internship at [Vizuara AI Labs](https://vizuara.ai/), I created an [Automatic Code Evaluator App](https://github.com/Ubayed-Bin-Sufian/Automatic-Code-Evaluator) and an [AI News Hub](https://github.com/Ubayed-Bin-Sufian/AI-News-Hub).
 - Past contributions at [Sugarlabs](https://github.com/sugarlabs) include [Music Blocks v3](https://github.com/sugarlabs/musicblocks/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian), [Music Blocks v4](https://github.com/sugarlabs/musicblocks-v4/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian), [Sugar Labs website v1](https://github.com/sugarlabs/www/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian), [Sugar Labs website v2](https://github.com/sugarlabs/www-v2/pulls?q=is%3Apr+is%3Aclosed+author%3Aubayed-bin-sufian+)
-- As part of [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/x6G18dFv), I am contributing at FOSSASIA. My contributions include [codeheat](https://github.com/fossasia/codeheat.org/issues?q=is%3Aissue%20state%3Aopen%20author%3AUbayed-Bin-Sufian) and [fossasia](https://github.com/fossasia/fossasia.org/issues?q=is%3Aissue%20state%3Aopen%20author%3AUbayed-Bin-Sufian).
+- As part of [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/x6G18dFv), I have contributed at [FOSSASIA](https://github.com/fossasia). My contributions include [codeheat.org](https://github.com/fossasia/codeheat.org/issues?q=is%3Aissue%20state%3Aopen%20author%3AUbayed-Bin-Sufian), [fossasia.org](https://github.com/fossasia/fossasia.org/issues?q=is%3Aissue%20state%3Aopen%20author%3AUbayed-Bin-Sufian) and [wpfa-mailconnect PRs](https://github.com/fossasia/wpfa-mailconnect/issues?q=is%3Apr+author%3AUbayed-Bin-Sufian) and [wpfa-mailconnect issues](https://github.com/fossasia/wpfa-mailconnect/issues?q=is%3Aissue%20state%3Aopen%20author%3AUbayed-Bin-Sufian).
+Contributions before GSoC include [Scrum Helper](https://github.com/fossasia/scrum_helper/pulls?q=is%3Apr+is%3Aclosed+author%3Aubayed-bin-sufian).
+- Right now, I am working on a FOSSASIA project, [WPFAevent](https://github.com/fossasia/WPFAevent), which is an open source plugin that allows users to create and manage events. I am currently working on the backend of the application using PHP. I have also contributed to the frontend of the application using HTML, CSS, and JavaScript. Contributions include [WPFAevent PRs](https://github.com/fossasia/WPFAevent/pulls?q=is%3Apr+author%3Aubayed-bin-sufian+is%3Aclosed) and [WPFAevent issues](https://github.com/fossasia/WPFAevent/issues?q=is%3Aissue%20state%3Aopen%20author%3AUbayed-Bin-Sufian).
 
 <!--    LANGUAGE AND TOOLS    -->
 </p>
